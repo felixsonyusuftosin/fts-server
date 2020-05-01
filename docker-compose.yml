@@ -1,0 +1,15 @@
+version: "3.3"
+services:
+  fts-server:
+    build: .
+    command: npm run watch
+    container_name: fts-server
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    env_file: .env
+    volumes:  
+      # - dbdata:/data/db  
+      - .:/usr/src/
+      - /usr/app/node_modules
+ 
