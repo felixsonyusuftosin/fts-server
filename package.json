@@ -8,7 +8,7 @@
     "start": "pm2  start start.sh -f",
     "check-env": "node -r dotenv/config",
     "build": "rimraf dist && babel src -d dist --source-maps",
-    "watch-script": "nodemon src/ --exec \"node --require dotenv/config --require babel-register\"", 
+    "watch-script": "nodemon src/ --exec \"node --require dotenv/config --require babel-register\"",
     "watch": "npm-run-all -p check-env watch-script"
   },
   "repository": {
@@ -22,10 +22,12 @@
   },
   "homepage": "https://github.com/felixsonyusuftosin/fts-server#readme",
   "devDependencies": {
+    "@types/braces": "^3.0.0",
     "@types/nodemon": "^1.19.0",
     "babel-cli": "^6.26.0",
     "babel-plugin-module-resolver": "^4.0.0",
     "babel-preset-env": "^1.7.0",
+    "braces": "^3.0.2",
     "cookie-parser": "^1.4.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
