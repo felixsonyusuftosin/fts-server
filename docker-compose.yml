@@ -2,6 +2,8 @@ version: "3.3"
 services:
   fts-server:
     build: .
+    depends_on:
+      - couchdb
     command: npm run watch
     container_name: fts-server
     ports:
@@ -9,7 +11,19 @@ services:
     restart: unless-stopped
     env_file: .env
     volumes:  
-      # - dbdata:/data/db  
       - .:/usr/src/
       - /usr/app/node_modules
- 
+  couchdb:
+    image: bitnami/couchdb:latest
+    container_name: couchdb
+    ports:
+      - 5984:5984
+      - 4369:4369
+      - 9100:9100
+    env_file: .env
+    volumes:
+      - bitnami:/bitnami/couchdb 
+      
+volumes:
+  bitnami:
+    driver: local
