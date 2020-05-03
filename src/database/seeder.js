@@ -163,11 +163,11 @@ const seedTracking = async () => {
 
 const seedCases = async () => {
   const db = Nano.db.use("cases")
-  const updatedCases = cases.map((cases) => {
-    cases._id = cases.casesId.toString()
-    return cases
+  const updatedCases = cases.map((cased) => {
+    cased._id = cased.caseId.toString()
+    return cased
   })
-
+  
   try {
     const inserted = await db.bulk({ docs: updatedCases })
     if (!inserted) {
