@@ -1,5 +1,6 @@
 {
   "plugins": [
+    "@babel/plugin-transform-runtime",
     [
       "module-resolver",
       {
@@ -8,10 +9,11 @@
           "@root": "./src/app.js",
           "@router": "./src/router",
           "@src": "./src",
-          "@utils": "./src/utils"
+          "@utils": "./src/utils",
+          "@database": "./src/database"
         }
       }
     ]
   ],
-  "presets": ["env"]
+  "presets": ["@babel/preset-env"]
 }

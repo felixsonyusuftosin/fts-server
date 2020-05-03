@@ -1,0 +1,502 @@
+[
+  {
+    "personId": 19,
+    "lgaId": 592,
+    "caseId": 1
+  },
+  {
+    "personId": 100,
+    "lgaId": 584,
+    "caseId": 2
+  },
+  {
+    "personId": 19,
+    "lgaId": 264,
+    "caseId": 3
+  },
+  {
+    "personId": 50,
+    "lgaId": 581,
+    "caseId": 4
+  },
+  {
+    "personId": 71,
+    "lgaId": 607,
+    "caseId": 5
+  },
+  {
+    "personId": 56,
+    "lgaId": 120,
+    "caseId": 6
+  },
+  {
+    "personId": 19,
+    "lgaId": 669,
+    "caseId": 7
+  },
+  {
+    "personId": 88,
+    "lgaId": 528,
+    "caseId": 8
+  },
+  {
+    "personId": 13,
+    "lgaId": 39,
+    "caseId": 9
+  },
+  {
+    "personId": 32,
+    "lgaId": 508,
+    "caseId": 10
+  },
+  {
+    "personId": 69,
+    "lgaId": 662,
+    "caseId": 11
+  },
+  {
+    "personId": 30,
+    "lgaId": 295,
+    "caseId": 12
+  },
+  {
+    "personId": 49,
+    "lgaId": 76,
+    "caseId": 13
+  },
+  {
+    "personId": 9,
+    "lgaId": 219,
+    "caseId": 14
+  },
+  {
+    "personId": 77,
+    "lgaId": 644,
+    "caseId": 15
+  },
+  {
+    "personId": 56,
+    "lgaId": 512,
+    "caseId": 16
+  },
+  {
+    "personId": 55,
+    "lgaId": 484,
+    "caseId": 17
+  },
+  {
+    "personId": 67,
+    "lgaId": 121,
+    "caseId": 18
+  },
+  {
+    "personId": 35,
+    "lgaId": 713,
+    "caseId": 19
+  },
+  {
+    "personId": 93,
+    "lgaId": 168,
+    "caseId": 20
+  },
+  {
+    "personId": 17,
+    "lgaId": 260,
+    "caseId": 21
+  },
+  {
+    "personId": 73,
+    "lgaId": 166,
+    "caseId": 22
+  },
+  {
+    "personId": 85,
+    "lgaId": 485,
+    "caseId": 23
+  },
+  {
+    "personId": 93,
+    "lgaId": 257,
+    "caseId": 24
+  },
+  {
+    "personId": 20,
+    "lgaId": 77,
+    "caseId": 25
+  },
+  {
+    "personId": 89,
+    "lgaId": 557,
+    "caseId": 26
+  },
+  {
+    "personId": 48,
+    "lgaId": 285,
+    "caseId": 27
+  },
+  {
+    "personId": 87,
+    "lgaId": 546,
+    "caseId": 28
+  },
+  {
+    "personId": 74,
+    "lgaId": 466,
+    "caseId": 29
+  },
+  {
+    "personId": 64,
+    "lgaId": 128,
+    "caseId": 30
+  },
+  {
+    "personId": 26,
+    "lgaId": 411,
+    "caseId": 31
+  },
+  {
+    "personId": 87,
+    "lgaId": 459,
+    "caseId": 32
+  },
+  {
+    "personId": 3,
+    "lgaId": 174,
+    "caseId": 33
+  },
+  {
+    "personId": 56,
+    "lgaId": 410,
+    "caseId": 34
+  },
+  {
+    "personId": 68,
+    "lgaId": 108,
+    "caseId": 35
+  },
+  {
+    "personId": 63,
+    "lgaId": 518,
+    "caseId": 36
+  },
+  {
+    "personId": 29,
+    "lgaId": 398,
+    "caseId": 37
+  },
+  {
+    "personId": 28,
+    "lgaId": 633,
+    "caseId": 38
+  },
+  {
+    "personId": 72,
+    "lgaId": 609,
+    "caseId": 39
+  },
+  {
+    "personId": 46,
+    "lgaId": 607,
+    "caseId": 40
+  },
+  {
+    "personId": 28,
+    "lgaId": 291,
+    "caseId": 41
+  },
+  {
+    "personId": 3,
+    "lgaId": 238,
+    "caseId": 42
+  },
+  {
+    "personId": 96,
+    "lgaId": 458,
+    "caseId": 43
+  },
+  {
+    "personId": 35,
+    "lgaId": 634,
+    "caseId": 44
+  },
+  {
+    "personId": 41,
+    "lgaId": 617,
+    "caseId": 45
+  },
+  {
+    "personId": 94,
+    "lgaId": 68,
+    "caseId": 46
+  },
+  {
+    "personId": 90,
+    "lgaId": 699,
+    "caseId": 47
+  },
+  {
+    "personId": 57,
+    "lgaId": 116,
+    "caseId": 48
+  },
+  {
+    "personId": 96,
+    "lgaId": 552,
+    "caseId": 49
+  },
+  {
+    "personId": 7,
+    "lgaId": 685,
+    "caseId": 50
+  },
+  {
+    "personId": 46,
+    "lgaId": 179,
+    "caseId": 51
+  },
+  {
+    "personId": 30,
+    "lgaId": 312,
+    "caseId": 52
+  },
+  {
+    "personId": 28,
+    "lgaId": 315,
+    "caseId": 53
+  },
+  {
+    "personId": 30,
+    "lgaId": 615,
+    "caseId": 54
+  },
+  {
+    "personId": 32,
+    "lgaId": 630,
+    "caseId": 55
+  },
+  {
+    "personId": 18,
+    "lgaId": 662,
+    "caseId": 56
+  },
+  {
+    "personId": 29,
+    "lgaId": 683,
+    "caseId": 57
+  },
+  {
+    "personId": 53,
+    "lgaId": 128,
+    "caseId": 58
+  },
+  {
+    "personId": 33,
+    "lgaId": 706,
+    "caseId": 59
+  },
+  {
+    "personId": 23,
+    "lgaId": 157,
+    "caseId": 60
+  },
+  {
+    "personId": 47,
+    "lgaId": 145,
+    "caseId": 61
+  },
+  {
+    "personId": 63,
+    "lgaId": 513,
+    "caseId": 62
+  },
+  {
+    "personId": 52,
+    "lgaId": 325,
+    "caseId": 63
+  },
+  {
+    "personId": 57,
+    "lgaId": 635,
+    "caseId": 64
+  },
+  {
+    "personId": 46,
+    "lgaId": 457,
+    "caseId": 65
+  },
+  {
+    "personId": 62,
+    "lgaId": 528,
+    "caseId": 66
+  },
+  {
+    "personId": 31,
+    "lgaId": 623,
+    "caseId": 67
+  },
+  {
+    "personId": 3,
+    "lgaId": 641,
+    "caseId": 68
+  },
+  {
+    "personId": 4,
+    "lgaId": 69,
+    "caseId": 69
+  },
+  {
+    "personId": 13,
+    "lgaId": 670,
+    "caseId": 70
+  },
+  {
+    "personId": 88,
+    "lgaId": 618,
+    "caseId": 71
+  },
+  {
+    "personId": 61,
+    "lgaId": 536,
+    "caseId": 72
+  },
+  {
+    "personId": 94,
+    "lgaId": 434,
+    "caseId": 73
+  },
+  {
+    "personId": 52,
+    "lgaId": 33,
+    "caseId": 74
+  },
+  {
+    "personId": 71,
+    "lgaId": 315,
+    "caseId": 75
+  },
+  {
+    "personId": 31,
+    "lgaId": 424,
+    "caseId": 76
+  },
+  {
+    "personId": 89,
+    "lgaId": 151,
+    "caseId": 77
+  },
+  {
+    "personId": 81,
+    "lgaId": 79,
+    "caseId": 78
+  },
+  {
+    "personId": 54,
+    "lgaId": 461,
+    "caseId": 79
+  },
+  {
+    "personId": 68,
+    "lgaId": 246,
+    "caseId": 80
+  },
+  {
+    "personId": 16,
+    "lgaId": 123,
+    "caseId": 81
+  },
+  {
+    "personId": 23,
+    "lgaId": 370,
+    "caseId": 82
+  },
+  {
+    "personId": 62,
+    "lgaId": 139,
+    "caseId": 83
+  },
+  {
+    "personId": 81,
+    "lgaId": 322,
+    "caseId": 84
+  },
+  {
+    "personId": 72,
+    "lgaId": 431,
+    "caseId": 85
+  },
+  {
+    "personId": 34,
+    "lgaId": 668,
+    "caseId": 86
+  },
+  {
+    "personId": 60,
+    "lgaId": 87,
+    "caseId": 87
+  },
+  {
+    "personId": 45,
+    "lgaId": 431,
+    "caseId": 88
+  },
+  {
+    "personId": 51,
+    "lgaId": 38,
+    "caseId": 89
+  },
+  {
+    "personId": 47,
+    "lgaId": 5,
+    "caseId": 90
+  },
+  {
+    "personId": 20,
+    "lgaId": 167,
+    "caseId": 91
+  },
+  {
+    "personId": 57,
+    "lgaId": 37,
+    "caseId": 92
+  },
+  {
+    "personId": 51,
+    "lgaId": 452,
+    "caseId": 93
+  },
+  {
+    "personId": 56,
+    "lgaId": 1,
+    "caseId": 94
+  },
+  {
+    "personId": 78,
+    "lgaId": 223,
+    "caseId": 95
+  },
+  {
+    "personId": 7,
+    "lgaId": 525,
+    "caseId": 96
+  },
+  {
+    "personId": 53,
+    "lgaId": 574,
+    "caseId": 97
+  },
+  {
+    "personId": 49,
+    "lgaId": 696,
+    "caseId": 98
+  },
+  {
+    "personId": 34,
+    "lgaId": 680,
+    "caseId": 99
+  },
+  {
+    "personId": 66,
+    "lgaId": 484,
+    "caseId": 100
+  }
+]

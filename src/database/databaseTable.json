@@ -1,0 +1,9 @@
+
+  {
+   "state": ["name", "stateId"],
+   "lga": ["stateId", "name", "lgaId" ],
+   "cases": ["personId", "lgaId", "caseId"],
+   "people":["personId", "address", "firstName", "lastname", "phoneNumber", "residentLgaId"], 
+   "tracking":["personId","order", "trackingId", "infectionStatus", "tested", "foundStatus"],
+   "history":["infectionStatus", "infectionDate","personId", "negativeDate", "mortality", "historyId"]
+  }

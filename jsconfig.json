@@ -9,7 +9,8 @@
       "@root": ["src/app.js"],
       "@router/*": ["src/router/"],
       "@middleware/*": ["src/middleware/"],
-      "@utils/*": ["src/utils"]
+      "@utils/*": ["src/utils"],
+      "@database/*": ["./src/database"]
     }
   },
   "exclude": ["node_modules"]
