@@ -10,7 +10,9 @@
       "@router/*": ["src/router/"],
       "@middleware/*": ["src/middleware/"],
       "@utils/*": ["src/utils"],
-      "@database/*": ["./src/database"]
+      "@database/*": ["src/database"],
+      "@repos/*": ["src/repos"],
+      "@views/*":["src/views"]
     }
   },
   "exclude": ["node_modules"]
